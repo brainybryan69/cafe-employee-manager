@@ -2,6 +2,11 @@
 
 A full-stack web application for managing cafés and their employees.
 
+## Live Demo
+
+- **App:** https://content-wonder-production.up.railway.app
+- **GitHub:** https://github.com/brainybryan69/cafe-employee-manager
+
 ## Tech Stack
 
 - **Backend:** Python 3.12 + FastAPI + SQLAlchemy + PostgreSQL
